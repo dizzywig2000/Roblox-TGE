@@ -14,7 +14,7 @@ Use this index to quickly jump to chapters in this document.
      1. [Data You Provide](#data-you-provide)
      2. [Data We Automatically Collect](#data-we-automatically-collect)
      3. [Data We Collect From Third Parties](#data-we-collect-from-third-parties)
-3. [How We Use YourData](#how-we-use-your-data)
+3. [How We Use Your Data](#how-we-use-your-data)
 4. [How We Store Data](#how-we-store-data)
 5. [Data Removal](#data-removal)
 6. [Privacy Policy Updates](#privacy-policy-updates)
